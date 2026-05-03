@@ -1,61 +1,59 @@
 # Vinicius Marques de Melo
-> Estudante de Logística | Desenvolvedor Python | Entusiasta de Engenharia de Contexto
+> **Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Python | Especialista em Logística**
 
 ---
 
-### 📫 Contato & Redes Sociais
+### 📫 Contacto & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-marques-de-melo-6737bb407/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusmarquesmelo59@gmail.com)
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](LINK_DO_PDF_OU_SITE)
+[![Portfólio](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viny-melo15)
 
 ---
 
-### 👨‍💻 Sobre
-Atualmente cursando Análise e Desenvolvimento de Sistemas, busco aplicar o raciocínio lógico e a automação de processos em soluções de tecnologia. Atualmente explorando o potencial da **Inteligência Artificial** e **Lógica de Programação** para otimizar processos reais.
+### 👨‍💻 Sobre Mim
+Atualmente a cursar **Análise e Desenvolvimento de Sistemas**, foco-me na aplicação de raciocínio lógico e automação para resolver problemas reais. Com uma base sólida de dois anos no setor de logística (auto-peças), desenvolvi competências analíticas que hoje aplico na **Engenharia de Dados** e no **Desenvolvimento de Software**.
 
-Com dois anos de experiência consolidada no setor de estoques em autos peças, possuo expertise na gestão de fluxos de entrada e saída, conferência de estoque e suporte administrativo a canais de vendas digitais. Minha trajetória profissional me permitiu desenvolver uma forte capacidade analítica e organização técnica, competências que agora direciono para o desenvolvimento de software e engenharia de dados.
-
-Minha jornada na tecnologia foca em transformar variáveis do mundo físico em soluções digitais resilientes, com especial interesse em auditoria de dados e sistemas de apoio à decisão.
-
-* **Habilidades Técnicas:** Python (Lógica e Estruturas), Engenharia de Contexto, Gestão de Estoque (SAP), Análise de Dados.
-* **Habilidades Socioemocionais:** Pensamento crítico, resolução de problemas complexos e adaptabilidade.
-* **Projetos Recentes:** Desenvolvimento de algoritmos de auditoria financeira e sistemas de triagem clínica baseados em protocolos de risco.
+* **Foco Técnico:** Transformar variáveis do mundo físico em soluções digitais resilientes.
+* **Interesses:** Auditoria de dados, Inteligência Artificial e Engenharia de Contexto.
+* **Diferencial:** Capacidade de decompor problemas complexos em etapas lógicas e executáveis.
 
 ---
 
-### 🛠 Minhas Ferramentas Favoritas
-#### 💻 Linguagens e Tecnologias
+### 🛠️ Stack Tecnológica
+#### 💻 Programação e Ferramentas
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-#### 📊 Auditoria & Ciência de Dados
+#### 📊 Dados e Auditoria
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
-### 📂 Portfólio de Projetos Selecionados
+### 📂 Projetos em Destaque
 
-#### 🔍 Auditoria e Lógica Física
-| Projeto | Descrição | Link |
+#### 🔍 Auditoria e Soluções Lógicas
+| Projeto | Descrição | Status |
 | :--- | :--- | :---: |
-| **Auditoria de Outliers** | Algoritmo para detecção de anomalias financeiras e normalização de dados. | [Ver Projeto](./projeto-auditoria/) |
-| **Triagem Clínica** | Sistema de classificação de risco baseado em sinais vitais e fluxogramas lógicos. | [Ver Projeto](./projeto-triagem/) |
-| **Engenharia de Contexto** | Estudo de microclima urbano e algoritmos de resiliência (planos de fallback). | [Ver Projeto](./projeto-contexto/) |
+| **Auditoria de Outliers** | Algoritmo Python para deteção de anomalias financeiras e normalização de dados. | [Concluído] |
+| **Triagem Clínica** | Sistema de apoio à decisão baseado em sinais vitais e classificação de risco. | [Concluído] |
+| **Engenharia de Contexto** | Estudo de microclima e algoritmos de resiliência (Planos de Fallback). | [Concluído] |
 
 #### 🛒 Automação e Comércio
-| Projeto | Descrição | Link |
+| Projeto | Descrição | Status |
 | :--- | :--- | :---: |
-| **Sistema de Caixa** | Automação de faturamento e algoritmo para decomposição eficiente de troco. | [Ver Projeto](./projeto-automacao/) |
+| **Modularização de Caixa** | Automação de faturamento mensal e algoritmo de decomposição de troco. | [Concluído] |
+| **Desenho com Dados** | Exploração de lógica visual e manipulação de matrizes de dados (Emojis). | [Concluído] |
 
 ---
 
-### 🏗 Estrutura do Repositório
-Para facilitar a navegação nos meus estudos:
+### 🏗️ Estrutura dos Repositórios
+Para facilitar a exploração dos meus estudos, os projetos estão organizados da seguinte forma:
 
-- `/projeto-auditoria/`: Notebooks Python focado em tratamento de dados e materialidade.
-- `/engenharia-contexto/`: Documentação e lógica aplicada a variáveis físicas e ambientais.
-- `/fluxogramas/`: Arquivos visuais (JPG/PNG) demonstrando a lógica de decisão dos sistemas.
+* `/projeto-auditoria/`: Focado em tratamento de dados, materialidade e estatística.
+* `/engenharia-contexto/`: Lógica aplicada a variáveis físicas, ambientais e segurança.
+* `/fluxogramas/`: Documentação visual das arquiteturas de decisão dos algoritmos.
 
 ---
-*“A programação me deu a clareza de que falhas são apenas erros de parâmetro que podem ser ajustados.”*
+*“A programação deu-me a clareza de que falhas são apenas erros de parâmetro que podem ser ajustados.”*
