@@ -10,7 +10,9 @@
 ---
 
 ### 👨‍💻 Sobre
-Sou profissional da área de Logística com experiência em operações de estoque (SAP) e atendimento, atualmente explorando o potencial da **Inteligência Artificial** e **Lógica de Programação** para otimizar processos reais. 
+Atualmente cursando Análise e Desenvolvimento de Sistemas, busco aplicar o raciocínio lógico e a automação de processos em soluções de tecnologia. Atualmente explorando o potencial da **Inteligência Artificial** e **Lógica de Programação** para otimizar processos reais.
+
+Com dois anos de experiência consolidada no setor de estoques em autos peças, possuo expertise na gestão de fluxos de entrada e saída, conferência de estoque e suporte administrativo a canais de vendas digitais. Minha trajetória profissional me permitiu desenvolver uma forte capacidade analítica e organização técnica, competências que agora direciono para o desenvolvimento de software e engenharia de dados.
 
 Minha jornada na tecnologia foca em transformar variáveis do mundo físico em soluções digitais resilientes, com especial interesse em auditoria de dados e sistemas de apoio à decisão.
 
