@@ -1,23 +1,30 @@
 # Vinicius Marques de Melo
-> Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Python | Entusiasta de Engenharia de Contexto
+> Estudante de Análise e Desenvolvimento de Sistemas
 
 ---
 
 ### 📫 Contato & Redes Sociais
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusmarquesmelo59@gmail.com)
+[![Telefone](https://img.shields.io/badge/Telefone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+5511941781461)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-marques-de-melo-6737bb407/)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusmarquesmelo59@gmail.com)
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](CV/CV_curriculo_vinicius_marques_de_melo.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viniciusmarquesmelo/portfolio-vinicius-marques-de-melo)
+[![Currículo](https://img.shields.io/badge/Currículo-12324F?style=for-the-badge&logo=read-the-docs&logoColor=white)](CV/CV_curriculo_vinicius_marques_de_melo.pdf)
 
 ---
 
 ### 👨‍💻 Sobre
-Atualmente cursando **Análise e Desenvolvimento de Sistemas**, busco aplicar o raciocínio lógico e a automação de processos em soluções tecnológicas de alto impacto. Com uma base sólida de dois anos no setor de logística e gestão de estoques (SAP), desenvolvi uma forte capacidade analítica que hoje direciono para o desenvolvimento de software e engenharia de dados.
+Estudante de Análise e Desenvolvimento de Sistemas (2º semestre), com interesse em tecnologia e desenvolvimento de software. Venho construindo base em lógica de programação, banco de dados e Git/GitHub.
 
-Minha jornada na tecnologia foca em transformar variáveis do mundo físico em soluções digitais resilientes, com especial interesse em auditoria de dados e sistemas de apoio à decisão.
+Aprendo com facilidade colocando a teoria em prática, sempre buscando entender o funcionamento das ferramentas e tecnologias que utilizo nos projetos acadêmicos. Tenho boa comunicação e facilidade para atuar em equipe, valorizando a troca de ideias e um convívio colaborativo e respeitoso no dia a dia.
 
-* **Habilidades Técnicas:** Python (Lógica e Estruturas), Engenharia de Contexto, Gestão de Estoque (SAP), Análise de Dados.
-* **Habilidades Socioemocionais:** Pensamento crítico, resolução de problemas complexos e adaptabilidade.
-* **Projetos Relevantes:** Desenvolvi algoritmos de auditoria financeira para detecção de outliers e sistemas lógicos para triagem clínica hospitalar.
+Atuei por cerca de 2 anos em uma loja de autopeças, principalmente na gestão de estoque, onde desenvolvi responsabilidade, organização e agilidade no uso de sistemas internos — experiência que despertou meu interesse por tecnologia e motivou a escolha pela graduação em ADS. Na faculdade, participei de projetos práticos de programação em equipe, aplicando os conhecimentos técnicos na resolução de desafios reais.
+
+Busco uma oportunidade para aplicar meus conhecimentos, ganhar experiência e crescer profissionalmente na área de tecnologia, contribuindo com os resultados da equipe.
+
+* **Hard Skills:** Lógica de programação, Desenvolvimento de software, Tecnologia da informação, Aprendizado rápido.
+* **Soft Skills:** Comunicação, Trabalho em equipe, Organização, Proatividade.
+* **Cursos:** IA - Aplicações no Governo Federal, GitHub Codespaces.
+* **Formação:** Análise e Desenvolvimento de Sistemas — Estudante / Cursando.
 
 ---
 
@@ -26,7 +33,7 @@ Minha jornada na tecnologia foca em transformar variáveis do mundo físico em s
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-#### 📊 Ciência de Dados & Auditoria
+#### 📊 Ciência de Dados
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
@@ -51,7 +58,6 @@ Minha jornada na tecnologia foca em transformar variáveis do mundo físico em s
 | **Desenhando Emojis com Dados** | Exploração de lógica de matrizes para representação visual e manipulação de dados. | [Ver Projeto](https://github.com/viniciusmarquesmelo/portifolio-vinicius-marques-de-meloo/tree/4ab36460433268985e0246735bffc8e6cbd8eacd/Projeto-desenhando-emojis-com-dados) |
 | **Sistema de auditoria** | Desenvolvimento de sistemas em foco de auditorias. | [Ver Projeto](https://github.com/viniciusmarquesmelo/portfolio-vinicius-marques-de-melo/tree/main/Projeto-sistema-de-auditoria) |
 
-
 ---
 
 ### 🏗 Estrutura do Repositório
@@ -67,4 +73,4 @@ Abaixo, a organização deste repositório para facilitar a navegação:
 - `/Desenhando Emojis com Dados/`: Exploração de lógica de matrizes para representação visual e manipulação de dados.
 
 ---
-*“A programação me deu a clareza de que falhas são apenas erros de parâmetro que podem ser ajustados.”*
+*"A programação me deu a clareza de que falhas são apenas erros de parâmetro que podem ser ajustados."*
