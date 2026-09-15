@@ -5,7 +5,6 @@
 
 ### 📫 Contato & Redes Sociais
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusmarquesmelo59@gmail.com)
-[![Telefone](https://img.shields.io/badge/Telefone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+5511941781461)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-marques-de-melo-6737bb407/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viniciusmarquesmelo/portfolio-vinicius-marques-de-melo)
 [![Currículo](https://img.shields.io/badge/Currículo-12324F?style=for-the-badge&logo=read-the-docs&logoColor=white)](CV/CV_curriculo_vinicius_marques_de_melo.pdf)
